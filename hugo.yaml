@@ -16,7 +16,7 @@ params:
   editPost:
     URL: "https://github.com/jarrodmhicks/recipes/content"
     Text: "Edit recipe" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: true # to append file path to Edit link 
   
   fuseOpts:
     isCaseSensitive: false
