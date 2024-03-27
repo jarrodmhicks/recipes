@@ -14,7 +14,7 @@ params:
       url: https://github.com/jarrodmhicks/recipes
   
   editPost:
-    URL: "https://github.com/jarrodmhicks/recipes/content"
+    URL: "https://github.com/jarrodmhicks/recipes/tree/main/content"
     Text: "Edit recipe" # edit text
     appendFilePath: true # to append file path to Edit link 
   
