@@ -9,13 +9,13 @@ This recipe makes 2 good sized cheese balls.
 
 ### Ingredients
 
-- 2&nbsp; 4.25 oz cans of deviled ham
-- 1&nbsp; 4.5 oz can of chopped green chilis (mild)
-- 5&nbsp; green onions
-- 1&nbsp; 8 oz package of cream cheese (softened to room temp)
-- 2&nbsp; cups of cheddar cheese (shredded)
-- 1&nbsp; dash of garlic powder
-- 4&nbsp; sleeves of crackers
+- 2&nbsp; 4.25 oz cans of `deviled ham`
+- 1&nbsp; 4.5 oz can of `chopped green chilis` (mild)
+- 5&nbsp; `green onions`
+- 1&nbsp; 8 oz package of `cream cheese` (softened to room temp)
+- 2&nbsp; cups of `cheddar cheese` (shredded)
+- 1&nbsp; dash of `garlic powder`
+- 4&nbsp; sleeves of `Ritz crackers`
 
 ### Instructions
 
