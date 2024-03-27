@@ -1,7 +1,7 @@
 ---
 title: 'Cheese Ball'
 date: 2024-03-26T23:27:13-04:00
-description: A classic from the granny-in-law
+description: It's not a sport but should be
 tags: [snack, thanksgiving]
 ---
 
