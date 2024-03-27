@@ -1,12 +1,13 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 date: {{ .Date }}
+description: {{ .Description }}
 ---
 
-## Ingredients
+### Ingredients
 
-- Go here
+- Unordered list of ingredients goes here
 
-## Instructions
+### Instructions
 
-1. Go here
+1. Ordered list of instructions goes here
