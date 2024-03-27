@@ -2,11 +2,12 @@ baseURL: ''
 languageCode: en-us
 title: Recipes
 theme: PaperMod
+enableEmoji: true
 
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: "Hi there 👋"
+    Content: "Let's get cooking"
 
   socialIcons: # optional
     - name: github
@@ -14,7 +15,7 @@ params:
   
   editPost:
     URL: "https://github.com/jarrodmhicks/recipes/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Edit recipe" # edit text
     appendFilePath: true # to append file path to Edit link
   
   fuseOpts:
