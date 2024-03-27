@@ -1,13 +1,16 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 date: {{ .Date }}
-description: {{ .Description }}
+description:
+tags: []
 ---
+
+Include the number of servings here.
 
 ### Ingredients
 
-- Unordered list of ingredients goes here
+- 1&nbsp; example ingredient
 
 ### Instructions
 
-1. Ordered list of instructions goes here
+1. &nbsp;An example instruction
