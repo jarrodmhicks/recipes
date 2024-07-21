@@ -9,8 +9,8 @@ Include the number of servings here.
 
 ### Ingredients
 
-- 1&nbsp; example ingredient
+- 1 example ingredient
 
 ### Instructions
 
-1. &nbsp;An example instruction
+1. An example instruction

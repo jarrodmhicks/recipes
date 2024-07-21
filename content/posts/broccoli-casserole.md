@@ -5,22 +5,22 @@ description: An underrated Thanksgiving dish
 tags: [sides, thanksgiving]
 ---
 
-This recipe makes 2 dishes.
+Makes 2 dishes
 
 ### Ingredients
 
-- 4&nbsp; 16oz packages of `frozen broccoli`
-- 4&nbsp;`eggs` (beaten)
-- 2&nbsp; cups of `mayonnaise`
-- 2&nbsp; cups of `cheddar cheese` (shredded)
-- 2&nbsp; 10.5oz (standard) cans of `cream of celery`
-- 3&nbsp; sleeves of crushed `Ritz crackers`
-- 2&nbsp; 9" by 12" `pans`
+- 4 16oz packages of frozen broccoli
+- 4 eggs (beaten)
+- 2 cups of mayonnaise
+- 2 cups of cheddar cheese (shredded)
+- 2 10.5oz (standard) cans of cream of celery
+- 3 sleeves of crushed Ritz crackers
+- 2 9" by 12" pans
 
 ### Instructions
 
-1. &nbsp;Boil broccoli until slightly tender and drain
-2. &nbsp;Mix together eggs, mayonnaise, cheese, and cream of celery
-3. &nbsp;Add broccoli to pans then mix in wet ingredients
-4. &nbsp;Top with crushed crackers immediately before cooking
-5. &nbsp;Bake at 350° F for ~ 45 minutes
+1. Boil broccoli until slightly tender and drain
+2. Mix together eggs, mayonnaise, cheese, and cream of celery
+3. Add broccoli to pans then mix in wet ingredients
+4. Top with crushed crackers immediately before cooking
+5. Bake at 350° F for ~ 45 minutes
