@@ -1,5 +1,5 @@
 ---
-title: 'Indian Slaw'
+title: 'Indian Spiced Slaw'
 date: 2024-08-03T18:35:55-04:00
 description: Bama meets Bangalore
 tags: [sides]
