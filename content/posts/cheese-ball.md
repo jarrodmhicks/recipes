@@ -2,7 +2,7 @@
 title: 'Cheese Ball'
 date: 2024-03-26T23:27:13-04:00
 description: It's not a sport but should be
-tags: [snack, thanksgiving]
+tags: [snacks, thanksgiving]
 ---
 
 Makes 2 large cheese balls
