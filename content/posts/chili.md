@@ -5,7 +5,7 @@ description: For when it's cold outside
 tags: [mains]
 ---
 
-Include the number of servings here.
+Makes ~ 8 bowls
 
 ### Ingredients
 
