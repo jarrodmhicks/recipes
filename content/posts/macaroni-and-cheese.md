@@ -22,14 +22,14 @@ Makes 2 large dishes (9" x 13")
 
 ### Instructions
 
-1. Boil macaroni and drain but do not rinse
-2. While macaroni is still hot, add olive oil, mix, and let cool while you make sauce
-3. Melt butter in sauce pan
-4. Whisk in flour and cook over medium heat for ~ 1 minute until bubbly and golden brown
-5. Slowly whisk in milk and heavy cream until smooth
-6. Whisk for about 2 minutes until it is thickened slightly
-7. Add salt, pepper and paprika
-8. Slowly add in cheese until fully incorporated
-9. Mix together macaroni and sauce in a large bowl
-10. Add mixture to the cooking pans
-11. Bake at 350 degrees for ~ 30 minutes
+    1. Boil macaroni and drain but do not rinse
+    2. While macaroni is still hot, add olive oil, mix, and let cool while you make sauce
+    3. Melt butter in sauce pan
+    4. Whisk in flour and cook over medium heat for ~ 1 minute until bubbly and golden brown
+    5. Slowly whisk in milk and heavy cream until smooth
+    6. Whisk for about 2 minutes until it is thickened slightly
+    7. Add salt, pepper and paprika
+    8. Slowly add in cheese until fully incorporated
+    9. Mix together macaroni and sauce in a large bowl
+    10. Add mixture to the cooking pans
+    11. Bake at 350 degrees for ~ 30 minutes
