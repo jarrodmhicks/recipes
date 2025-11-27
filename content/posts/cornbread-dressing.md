@@ -11,24 +11,24 @@ Makes 2 dishes
 
 #### Cornbread
 
-- 1 cup of yellow corn meal (NOT self-rising)
-- 1 cup of all-purpose flour
-- 1 teaspoon of sugar
-- 1 teaspoon of salt
-- 1 tablespoon of baking powder
-- 1/4 cup of oil
-- 1 cup of milk
-- 1 egg (beaten)
+- 2 cups of yellow corn meal (NOT self-rising)
+- 2 cups of all-purpose flour
+- 2 teaspoons of sugar
+- 2 teaspoons of salt
+- 2 tablespoons of baking powder
+- 1/2 cup of mayo
+- 2 cups of milk
+- 2 eggs (beaten; or equivalent egg replacer)
 
 #### Dressing
 
 - 1 cup of green onions (finely chopped)
 - 1 small onion (finely chopped)
 - 1 cup of celery (finely chopped)
-- 1.5 large cooked chicken breast (finely chopped)
-- 3 10.5 oz cans of cream of chicken
-- ~48 oz of chicken broth (1.5 of the 32 oz boxes)
-- 3 eggs (beaten)
+- 2 large cooked chicken breast (finely chopped)
+- 4 10.5 oz cans of cream of chicken
+- 32 oz of chicken broth
+- 4 eggs (beaten; or equivalent egg replacer)
 - 2 tablespoons of poultry seasoning
 - 1 teaspoon of sage
 
@@ -39,7 +39,7 @@ Makes 2 dishes
     1. Combine dry ingredients
     2. Combine wet ingredients
     3. Mix wet ingredients into dry ingredients until uniform
-    4. Bake in a greased 9x9x2 inch pan at 425 for 20-25 minutes
+    4. Bake in a greased 13x9x2 inch pan at 425 degrees for 30 minutes
 
 #### Dressing
 
@@ -50,6 +50,5 @@ Makes 2 dishes
     5. Add 32 oz of broth to the cornbread mixture
     6. Pour cornbread mixture into two pans
     7. Split chicken mixture between the two pans and stir
-    8. Add additional broth to each pan and stir (should be quite wet)
-    9. Bake at 350 degrees for 1 hour
-    10. Cover with aluminum foil and bake an additional 10 minutes
+    8. Bake at 350 degrees for 45 minutes
+    9.  Cover with aluminum foil and bake an additional 10 minutes
